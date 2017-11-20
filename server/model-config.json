@@ -40,5 +40,11 @@
     "public": true,
     "$promise": {},
     "$resolved": true
+  },
+  "post": {
+    "dataSource": "mongoDBDS",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }
