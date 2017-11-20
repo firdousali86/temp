@@ -26,7 +26,13 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "workHistory": {
+      "type": "hasMany",
+      "model": "userWorkHistory",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }
