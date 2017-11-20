@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDBDS": {
+    "host": "ds115166.mlab.com",
+    "port": 15166,
+    "database": "autoconnectservices",
+    "username": "autoconnectservices",
+    "password": "autoconnectservices123",
+    "name": "mongoDBDS",
+    "user": "autoconnectservices",
+    "connector": "mongodb"
+  }
+}
