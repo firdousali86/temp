@@ -36,7 +36,7 @@
     "public": false
   },
   "user": {
-    "dataSource": "db",
+    "dataSource": "mongoDBDS",
     "public": true,
     "$promise": {},
     "$resolved": true

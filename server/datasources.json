@@ -7,8 +7,8 @@
     "host": "ds115166.mlab.com",
     "port": 15166,
     "database": "autoconnectservices",
-    "username": "autoconnectservices",
-    "password": "autoconnectservices123",
+    "username": "acdbuser",
+    "password": "acdbuser123",
     "name": "mongoDBDS",
     "user": "autoconnectservices",
     "connector": "mongodb"
