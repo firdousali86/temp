@@ -13,9 +13,6 @@
       "./mixins"
     ]
   },
-  "User": {
-    "dataSource": "mongoDBDS"
-  },
   "AccessToken": {
     "dataSource": "mongoDBDS",
     "public": false
